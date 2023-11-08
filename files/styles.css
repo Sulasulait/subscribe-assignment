@@ -1,0 +1,48 @@
+body{
+    background: #36384d;
+    scroll-behavior: inherit;
+}
+.container{
+    background: #ffffff;
+    margin-left: 310px;
+    margin-top: 5cm;
+    border-radius: 25px;
+    width: 20cm;
+    height: 15cm;
+}
+.image{
+    float: right;
+    width: auto;
+    height: auto;
+    padding-right: 14px;
+    padding-top: 12px;
+}
+.text{
+    float: left;
+    width: 9cm;
+    height: auto;
+    padding-left: 30px;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+button{
+    border-radius: 10px;
+    width: 310px;
+    height: 48px;
+    background: #232742;
+    color: white;
+}
+input{
+    border-radius: 10px;
+    width: 290px;
+    height: 45px;
+    padding-left: 11px;
+}
+h1{
+    color: #232742;
+    font-size: 40pt;
+}
+img{
+    height: 550px;
+    width: 350px;
+}
